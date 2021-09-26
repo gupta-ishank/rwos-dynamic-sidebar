@@ -1,0 +1,32 @@
+ng-sidebar-container{
+    height:100vh ;
+}
+
+::ng-deep .ng-sidebar{
+    background-color: #f4f4f4;
+    width: 250px;
+    padding: 2em, 3em;
+    box-shadow: 0 0 2.5em rgba(85, 85, 85, 0.5);
+}
+
+#sidebar-btn{
+    /* bottom: 100px; */
+    float: left;
+}
+
+/* .container{
+    text-align: center;
+} */
+
+label{
+    text-align: left;
+}
+
+
+.form-container {
+    /* width: 30%; */
+    /* display: inline-block; */
+    /* align-content: center; */
+    text-align: center;
+    /* margin-left: 70px; */
+}
